@@ -1,2 +1,2 @@
 # first-react-project
-Getting started with a very basic React site
+Getting started with simple reactjs.org tutorial for adding React to a site
